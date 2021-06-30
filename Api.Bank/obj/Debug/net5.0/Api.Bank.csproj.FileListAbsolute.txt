@@ -1,0 +1,16 @@
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\obj\Debug\net5.0\Api.Bank.csprojAssemblyReference.cache
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\obj\Debug\net5.0\Api.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\obj\Debug\net5.0\Api.Bank.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\obj\Debug\net5.0\Api.Bank.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\obj\Debug\net5.0\Api.Bank.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\bin\Debug\net5.0\Api.Bank.exe
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\bin\Debug\net5.0\Api.Bank.deps.json
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\bin\Debug\net5.0\Api.Bank.runtimeconfig.json
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\bin\Debug\net5.0\Api.Bank.runtimeconfig.dev.json
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\bin\Debug\net5.0\Api.Bank.dll
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\bin\Debug\net5.0\ref\Api.Bank.dll
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\bin\Debug\net5.0\Api.Bank.pdb
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\obj\Debug\net5.0\Api.Bank.dll
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\obj\Debug\net5.0\ref\Api.Bank.dll
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\obj\Debug\net5.0\Api.Bank.pdb
+C:\Users\lukas\Desktop\Api.Bank\Api.Bank\obj\Debug\net5.0\Api.Bank.genruntimeconfig.cache
